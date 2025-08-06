@@ -3,7 +3,7 @@
  * provided for you by firebase after creating your project!
  */
 const firebaseConfig = {
-  apiKey: "AIzaSyDipvtLt_Eu6guuFd8crXkICAoSY-xC_sc",
+  apiKey: "AIzaSyDipvtLt_Eu6guuFd8crXkICAoSY",
   authDomain: "relay-3de4d.firebaseapp.com",
   databaseURL: "https://relay-3de4d-default-rtdb.firebaseio.com",
   projectId: "relay-3de4d",
