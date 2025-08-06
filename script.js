@@ -9,11 +9,17 @@ submitButton.onclick = updateDB;
 
 function updateDB(event) {
   event.preventDefault();
+
+  if(username.value == ""){
+    alert("Please insert a username!")
+  } else{
+
+  
   let data = {
     "username": username.value,
     "message": message.value
   }
-
+}
   console.log(data)
 
   database.push(data)
